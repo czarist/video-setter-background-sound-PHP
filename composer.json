@@ -1,0 +1,17 @@
+{
+    "name": "download/videos",
+    "autoload": {
+        "psr-4": {
+            "Download\\Videos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cezar Trentin",
+            "email": "55374787+czarist@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "php-ffmpeg/php-ffmpeg": "0.17.0"
+    }
+}

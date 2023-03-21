@@ -1,0 +1,4 @@
+vendor
+*.mp4
+*.mp3
+composer.lock
